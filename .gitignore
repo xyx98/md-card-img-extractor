@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+#############
+output
+pic-not-found.txt
+pw-not-found.txt
+cards.json
+pics
